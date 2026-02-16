@@ -17,14 +17,13 @@
 
 
 %%% Задаем стиль заголовков и подзаголовков в тексте %%%
-
 \setsecnumdepth{subsection} % Номера разделов считать до третьего уровня включительно, т.е. нумеруются только главы, секции, подсекции
 \renewcommand*{\chapterheadstart}{} % Переопределяем команду, задающую отступ над заголовком, чтобы отступа не было
 \renewcommand*{\printchaptername}{} % Переопределяем команду, печатающую слово "Глава", чтобы оно не печалось
 %\renewcommand*{\printchapternum}{} % То же самое для номера главы - тут не надо, номер главы оставляем
 \renewcommand*{\chapnumfont}{\normalfont\bfseries} % Меняем стиль шрифта для номера главы: нормальный размер, полужирный
 \renewcommand*{\afterchapternum}{\hspace{1em}} % Меняем разделитель между номером главы и названием
-\renewcommand*{\printchaptertitle}{\normalfont\bfseries\centering\MakeUppercase} % Меняем стиль написания для заголовка главы: нормальный размер, полужирный, центрированный, заглавными буквами
+\renewcommand*{\printchaptertitle}{\normalfont\bfseries\centering} % Меняем стиль написания для заголовка главы: нормальный размер, полужирный, центрированный, заглавными буквами
 \setbeforesecskip{20pt} % Задаем отступ перед заголовком секции
 \setaftersecskip{20pt} % Ставим такой же отступ после заголовка секции
 \setsecheadstyle{\raggedright\normalfont\bfseries} % Меняем стиль написания для заголовка секции: выравнивание по правому краю без переносов, нормальный размер, полужирный
@@ -185,10 +184,6 @@ isbn=false,                                         % Не показывать 
 \tableofcontents*                                   % Автособираемое оглавление
 
 \input{2_intro}                                     % Введение
-\input{3_chap1}                                     % Первая глава
-\input{4_chap2}                                     % Вторая глава
-\input{5_chap3}                                     % Третья глава
-
-\printbibliography[title=Список использованных источников] % Автособираемый список литературы
+\input{3_chap1}                                     % Первая глава                                     % Третья глава
 
 \end{document}

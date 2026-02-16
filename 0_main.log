@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.16)  16 FEB 2026 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.16)  16 FEB 2026 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/LabGitITMO/ТАУ/lab1/Essay_Template_ITMO_Rus/0_main.tex
-(c:/LabGitITMO/ТАУ/lab1/Essay_Template_ITMO_Rus/0_main.tex
+**c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex
+(c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
@@ -1689,8 +1689,8 @@ Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
 \c@memhycontfloat=\count355
 \c@mem@Hpagenote=\count356
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 105.
-Package hyperref Info: Option `linktocpage' set `true' on input line 105.
+Package hyperref Info: Option `colorlinks' set `true' on input line 104.
+Package hyperref Info: Option `linktocpage' set `true' on input line 104.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip192
@@ -1981,7 +1981,7 @@ Package biblatex Info: ... and expl3
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Delimiter 'bibinitdelim' in context '' already defined, overwriting on input line 144.
+Package biblatex Info: Delimiter 'bibinitdelim' in context '' already defined, overwriting on input line 143.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip270
@@ -2159,12 +2159,12 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
-LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input line 177.
+LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input line 176.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 177.
+(Font)              scaled to size 14.4pt on input line 176.
  (0_main.aux
 LaTeX Font Info:    Trying to load font information for T2A+Tempora-TLF on input line 10.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.fd
@@ -2174,59 +2174,53 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 10.
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 10.
-LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on input line 41.
- (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.fd
-File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-TLF.
-)
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 41.
 )
 \openout1 = `0_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 177.
-LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 177.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 176.
+LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 176.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 177.
-LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 177.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 176.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 176.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 177.
-LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 177.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 176.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 176.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 177.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 177.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 176.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 176.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 176.
+LaTeX Font Info:    ... okay on input line 176.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2262,7 +2256,7 @@ LaTeX Font Info:    ... okay on input line 177.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 177.
+LaTeX Info: Redefining \th on input line 176.
 \c@mv@tabular=\count548
 \c@mv@boldtabular=\count549
 (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -2295,7 +2289,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 177.
+Package hyperref Info: Link coloring ON on input line 176.
  (0_main.out) (0_main.out)
 \@outlinefile=\write5
 \openout5 = `0_main.out'.
@@ -2336,19 +2330,19 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '0_main.bbl' found.
  (0_main.bbl)
-Package biblatex Info: Reference section=0 on input line 177.
-Package biblatex Info: Reference segment=0 on input line 177.
+Package biblatex Info: Reference section=0 on input line 176.
+Package biblatex Info: Reference segment=0 on input line 176.
 
-Package chemgreek Info: Activating mapping `default' on line 177.
+Package chemgreek Info: Activating mapping `default' on line 176.
 
  (1_title.tex
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 22.
+(Font)              scaled to size 14.4pt on input line 25.
 ) [1
 
 {C:/Users/stepa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 185.
+(Font)              scaled to size 14.4pt on input line 184.
  (0_main.toc
 LaTeX Font Info:    Trying to load font information for T2B+Tempora-TLF on input line 1.
  (C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2btempora-tlf.fd
@@ -2356,76 +2350,26 @@ File: t2btempora-tlf.fd 2015/09/13 Font definitions for T2B/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-) (2_intro.tex [2{C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2b-tempora.enc}]
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 5.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
-) (3_chap1.tex [3
+) (2_intro.tex [2{C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2b-tempora.enc}]) (3_chap1.tex [3
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 4.
-(C:\Users\stepa\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [4
+)
 
-] [5]) (4_chap2.tex [6{C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_jglahm.enc}]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-<images/bird1.png, id=129, 376.40625pt x 415.5525pt>
-File: images/bird1.png Graphic file (type png)
-<use images/bird1.png>
-Package pdftex.def Info: images/bird1.png  used on input line 14.
-(pdftex.def)             Requested size: 234.73524pt x 259.15533pt.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
-[7
+Package caption Warning: Unused \captionsetup[figure] on input line 85.
+See the caption package documentation for explanation.
 
- <./images/bird1.png>]
-<images/bird2.png, id=139, 376.40625pt x 438.8897pt>
-File: images/bird2.png Graphic file (type png)
-<use images/bird2.png>
-Package pdftex.def Info: images/bird2.png  used on input line 23.
-(pdftex.def)             Requested size: 154.92612pt x 180.64911pt.
-<images/tiger1.png, id=141, 501.875pt x 340.27126pt>
-File: images/tiger1.png Graphic file (type png)
-<use images/tiger1.png>
-Package pdftex.def Info: images/tiger1.png  used on input line 40.
-(pdftex.def)             Requested size: 209.82881pt x 142.26393pt.
-<images/tiger2.png, id=142, 376.40625pt x 268.75406pt>
-File: images/tiger2.png Graphic file (type png)
-<use images/tiger2.png>
-Package pdftex.def Info: images/tiger2.png  used on input line 47.
-(pdftex.def)             Requested size: 199.24738pt x 142.26263pt.
-<images/fish1.png, id=144, 120.45pt x 120.45pt>
-File: images/fish1.png Graphic file (type png)
-<use images/fish1.png>
-Package pdftex.def Info: images/fish1.png  used on input line 63.
-(pdftex.def)             Requested size: 154.92612pt x 154.94002pt.
-<images/fish2.png, id=145, 250.9375pt x 250.9375pt>
-File: images/fish2.png Graphic file (type png)
-<use images/fish2.png>
-Package pdftex.def Info: images/fish2.png  used on input line 70.
-(pdftex.def)             Requested size: 154.92612pt x 154.93253pt.
-<images/fish3.png, id=146, 225.84375pt x 225.84375pt>
-File: images/fish3.png Graphic file (type png)
-<use images/fish3.png>
-Package pdftex.def Info: images/fish3.png  used on input line 78.
-(pdftex.def)             Requested size: 154.92612pt x 154.93636pt.
- [8 <./images/bird2.png>] [9 <./images/tiger1.png> <./images/tiger2.png> <./images/fish1.png> <./images/fish2.png> <./images/fish3.png>]) (5_chap3.tex [10]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 5.
-) [11
+
+Package caption Warning: Unused \captionsetup[subfigure] on input line 86.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: Unused \captionsetup[table] on input line 87.
+See the caption package documentation for explanation.
+
+[4
 
 ]
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 192.
-LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 192.
- [12
-
-{C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_aq2g6w.enc}]
 \tf@toc=\write6
 \openout6 = `0_main.toc'.
 
@@ -2435,23 +2379,23 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `0_main.out' has not changed.
-(rerunfilecheck)             Checksum: CF6E6FBBD5E19AE6037C9E9F98BAC696;4466.
+(rerunfilecheck)             Checksum: CEF9B1D088BB123A63A9539F77B35083;2345.
 Package logreq Info: Writing requests to '0_main.run.xml'.
 \openout1 = `0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31272 strings out of 467871
- 557589 string characters out of 5418376
- 1627446 words of memory out of 5000000
- 59655 multiletter control sequences out of 15000+600000
- 660066 words of font info for 65 fonts, out of 8000000 for 9000
+ 30655 strings out of 467871
+ 543109 string characters out of 5418376
+ 1620570 words of memory out of 5000000
+ 59099 multiletter control sequences out of 15000+600000
+ 643866 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,11n,117p,3493b,4263s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\stepa\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 0_main.pdf (12 pages, 3412277 bytes).
+ 85i,11n,117p,1244b,3209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb>
+Output written on 0_main.pdf (4 pages, 100152 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
