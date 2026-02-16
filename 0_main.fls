@@ -394,6 +394,16 @@ INPUT .\3_chap1.tex
 INPUT .\3_chap1.tex
 INPUT .\3_chap1.tex
 INPUT 3_chap1.tex
+INPUT .\8_end.tex
+INPUT .\8_end.tex
+INPUT .\8_end.tex
+INPUT .\8_end.tex
+INPUT 8_end.tex
+INPUT .\9_prilozen.tex
+INPUT .\9_prilozen.tex
+INPUT .\9_prilozen.tex
+INPUT .\9_prilozen.tex
+INPUT 9_prilozen.tex
 OUTPUT 0_main.toc
 INPUT 0_main.aux
 INPUT .\0_main.out

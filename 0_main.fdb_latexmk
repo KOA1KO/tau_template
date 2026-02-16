@@ -1,19 +1,22 @@
 # Fdb version 4
-["biber 0_main"] 1771256906.83154 "0_main.bcf" "0_main.bbl" "0_main" 1771256909.08447 0
-  "0_main.bcf" 1771256906.23969 153977 aed9b56e77fc7bfc53b3cfddcdd5b843 "pdflatex"
+["biber 0_main"] 1771256906.83154 "0_main.bcf" "0_main.bbl" "0_main" 1771257578.412 0
+  "0_main.bcf" 1771257577.486 153977 aed9b56e77fc7bfc53b3cfddcdd5b843 "pdflatex"
+  "biba.bib" 0 -1 0 ""
   (generated)
   "0_main.bbl"
   "0_main.blg"
   (rewritten before read)
-["pdflatex"] 1771256903.97805 "c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex" "0_main.pdf" "0_main" 1771256909.08502 0
-  "0_main.aux" 1771256906.22775 1892 aa8baf587a0cc5b04f40c8d0fad0f673 "pdflatex"
+["pdflatex"] 1771257575.17649 "c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex" "0_main.pdf" "0_main" 1771257578.41312 0
+  "0_main.aux" 1771257577.47626 2227 03b60fd5134615d19277085aab4757ac "pdflatex"
   "0_main.bbl" 1771256908.97604 486 e75d7e0db03f09d45b25df2f538bb294 "biber 0_main"
-  "0_main.out" 1771256906.23267 2345 cef9b1d088bb123a63a9539f77b35083 "pdflatex"
-  "0_main.run.xml" 1771256906.24247 2577 ee61ec339c1711378887d45ee8cbb3f6 "pdflatex"
-  "0_main.toc" 1771256906.24298 864 3079dba786534bcce3f7a8b729c4beb8 "pdflatex"
+  "0_main.out" 1771257577.48001 2593 da507966d6e43a908b166996fdf156e2 "pdflatex"
+  "0_main.run.xml" 1771257577.488 2577 ee61ec339c1711378887d45ee8cbb3f6 "pdflatex"
+  "0_main.toc" 1771257577.488 988 30a96b284b69cedb20ba8ed0c2f82dff "pdflatex"
   "1_title.tex" 1771256376.66427 1194 f8430890d15f55095669f8ab7610cb51 ""
   "2_intro.tex" 1771256424.83088 154 2d13670273af813ef5e8d29f18c8e58b ""
   "3_chap1.tex" 1771256491.06789 666 6fd8c200af520c12a00a367916342dda ""
+  "8_end.tex" 1771257450.11385 165 073b6a70a73b240ec1c7b0a722e94d07 ""
+  "9_prilozen.tex" 1771257469.333 166 b59e730b74abdd56031f62b01495d42b ""
   "C:/Users/stepa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1771255668.78359 89659 ef23699ec536309d879afb5ac5b9505e ""
   "C:/Users/stepa/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1771243173.97643 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "C:/Users/stepa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1771242939.74149 13333487 bd04be257b562ee937ab9829eea0f407 ""
@@ -175,7 +178,7 @@
   "C:/Users/stepa/AppData/Local/Programs/MiKTeX/tex/latex/was/icomma.sty" 1665850770 1018 df058db1896806f044e2233bb506d425 ""
   "C:/Users/stepa/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/stepa/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
-  "c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex" 1771256903.19311 18020 c53348de04d7e67ab61db0678dfd7c51 ""
+  "c:/LabGitITMO/ТАУ/Essay_Template_ITMO_Rus/0_main.tex" 1771257570.14464 18424 50a5f1c7e15174b4fe72f8c4532eda82 ""
   (generated)
   "0_main.aux"
   "0_main.bcf"

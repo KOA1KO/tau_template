@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.16)  16 FEB 2026 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.16)  16 FEB 2026 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2354,7 +2354,11 @@ LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-)
+) (8_end.tex [4
+
+]) (9_prilozen.tex [5
+
+])
 
 Package caption Warning: Unused \captionsetup[figure] on input line 85.
 See the caption package documentation for explanation.
@@ -2367,7 +2371,7 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 87.
 See the caption package documentation for explanation.
 
-[4
+[6
 
 ]
 \tf@toc=\write6
@@ -2379,23 +2383,23 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `0_main.out' has not changed.
-(rerunfilecheck)             Checksum: CEF9B1D088BB123A63A9539F77B35083;2345.
+(rerunfilecheck)             Checksum: DA507966D6E43A908B166996FDF156E2;2593.
 Package logreq Info: Writing requests to '0_main.run.xml'.
 \openout1 = `0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30655 strings out of 467871
- 543109 string characters out of 5418376
- 1620570 words of memory out of 5000000
- 59099 multiletter control sequences out of 15000+600000
+ 30681 strings out of 467871
+ 543552 string characters out of 5418376
+ 1620662 words of memory out of 5000000
+ 59113 multiletter control sequences out of 15000+600000
  643866 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,11n,117p,1244b,3209s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/stepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on 0_main.pdf (4 pages, 100152 bytes).
+Output written on 0_main.pdf (6 pages, 104163 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
